@@ -27,8 +27,6 @@ A clean and minimal calculator app built using Flutter. This app performs basic 
 - Android SDK 36.0.0
 - VS Code / Android Studio
 
----
 
 
-flutter pub get
-flutter run
+
